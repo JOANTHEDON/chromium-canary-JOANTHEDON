@@ -1,7 +1,7 @@
 # Chromium Canary Submission — JOANTHEDON (@JOANTHEDON)
 
 ## 1. Loom Walkthrough Video
-* **Video URL:** [Watch 5-Minute Walkthrough](https://www.loom.com/share/YOUR_VIDEO_ID)
+* **Video URL:** [Watch 5-Minute Walkthrough](https://drive.google.com/file/d/1pAWEN7G5nE_UaIFowbuy0YkupRUGLYoh/view?usp=sharing)
   *(Make sure link sharing is set to "Anyone with the link can view")*
 
 ## 2. Build Info
